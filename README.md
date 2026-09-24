@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/bilal-sadaqat-003790439/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:idevbilal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=idevcrafts&style=for-the-badge&color=2F81F7" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=idevcrafts.idevcrafts&left_text=Profile%20Views&left_color=555555&right_color=2F81F7" />
 
 </div>
 
