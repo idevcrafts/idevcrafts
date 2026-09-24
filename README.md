@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=180&section=header&text=Hi%2C%20I'm%20Bill%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20Full%20Stack%20%26%20Generative%20AI&descAlignY=60&descSize=16" width="100%" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bill;Staff+Software+Engineer;Full+Stack+%26+Generative+AI;Building+LLM+apps+that+ship+to+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Staff+Software+Engineer;Full+Stack+%26+Generative+AI;Building+LLM+apps+that+ship+to+production" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/bilal-sadaqat-003790439/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:idevbilal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,11 +14,7 @@
 
 ## 🚀 About Me
 
-- 🧠 Staff Software Engineer specializing in **Full Stack Development** and **Generative AI**
-- 🤖 Building **RAG pipelines**, **agentic workflows**, and **document intelligence** systems with Azure OpenAI, LangChain, and LangGraph
-- ⚡ From real-time messaging at **Skype (Microsoft)** to AR/VR platforms at **uSens** to AI-powered SaaS today
-- 💰 Obsessed with LLM cost and quality: model routing, prompt caching, and LLM-as-judge evaluations
-- 🤝 Love owning products end to end and mentoring engineers
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=400&color=58A6FF&multiline=true&repeat=false&width=1000&height=190&lines=%F0%9F%A7%A0+Staff+Software+Engineer+specializing+in+Full+Stack+Development+and+Generative+AI;%F0%9F%A4%96+Building+RAG+pipelines%2C+agentic+workflows%2C+and+document+intelligence+with+Azure+OpenAI+%26+LangChain;%E2%9A%A1+From+real-time+messaging+at+Skype+(Microsoft)+to+AR%2FVR+at+uSens+to+AI-powered+SaaS+today;%F0%9F%92%B0+Obsessed+with+LLM+cost+and+quality%3A+model+routing%2C+prompt+caching%2C+LLM-as-judge+evals;%F0%9F%A4%9D+Love+owning+products+end+to+end+and+mentoring+engineers" alt="About Me" />
 
 ---
 
@@ -100,10 +98,4 @@
 
 </div>
 
----
-
-<div align="center">
-
-⭐ *Always building, always shipping.* ⭐
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=100&section=footer" width="100%" />
